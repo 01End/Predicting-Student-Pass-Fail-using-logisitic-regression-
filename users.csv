@@ -1,6 +1,6 @@
 "id","name","email","email_verified_at","password","role","department","phone","birth_date","gender","year","major","parent_id","remember_token","created_at","updated_at"
 "1","Kamr Rashad","kr@gmail.com",NULL,"$2y$12$2l99N6b8RGgauAr63os/2.w0CHvkT9hQ9OjCb1bPeXIyrJ5Pa9dDq","parent",NULL,"0593230125","1973-05-03","male",NULL,NULL,NULL,NULL,"2025-04-29 10:57:05","2025-04-29 10:57:05"
-"2","Khaled Kamr","kk@gmail.com",NULL,"$2y$12$Ekg8cfojMw1tiJo89BpN1uj0COyGBl6r1Wzgk6Ix44YApgr82n6zO","student",NULL,"01006379503","2003-07-03","male","senior","Computer Science","1",NULL,"2025-04-29 10:57:05","2025-04-29 10:57:05"
+"2","Khaled Kamr","kk@gmail.com",NULL,"$2y$12$zCcdtxNuRofSBAc3wtZj/Oag10nuoZRZuJYRWSD.xGpTK0OAlxSRi","student",NULL,"01006379503","2003-07-03","male","senior","Computer Science","1",NULL,"2025-04-29 10:57:05","2025-05-30 12:59:32"
 "3","Yossif Kamr","yk@gmail.com",NULL,"$2y$12$zV7WopqyA02cdgQXxsKYPushbKpRy5zfv/nBMo.RxS8f2L4Or.3BS","student",NULL,"01006379503","2005-07-03","male","junior","Computer Science","1",NULL,"2025-04-29 10:57:06","2025-04-29 10:57:06"
 "4","Dr. Mohamed Marey","mm@gmail.com",NULL,"$2y$12$SYoQukEtLq2Q1dTsqxG/DerWZ0BUpggM6SDhbx4rRLmSuPF2xgHM.","professor","Artificial Intelligence","0123456789","1980-01-01","male",NULL,NULL,NULL,NULL,"2025-04-29 10:57:06","2025-04-29 10:57:06"
 "5","Dr. Elroy Steuber","williamson.kole@example.com",NULL,"$2y$12$LG2Jz8ixvLjDSN9NJM//y.IFbtxcvnUXAX.pWzrlxaNMKEvxOqkJe","professor","General Education","609-370-0738","1979-09-03","male",NULL,NULL,NULL,NULL,"2025-04-29 10:57:08","2025-04-29 10:57:08"
